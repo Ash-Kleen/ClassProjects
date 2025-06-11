@@ -5,4 +5,4 @@ PPT of analysis showing the visualizations and the Jupyter Notebook that was use
 # Car Sales Dubai
 Tableau file visualizing car sales data in Dubai.
 # Capstone Project
-Script, presentation, and final draft submission of my capstone project. 
+Script, presentation, and final draft submission of my capstone project (Predicting Risk to Human Life Due to Landslides). 
